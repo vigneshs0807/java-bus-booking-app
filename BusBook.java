@@ -75,8 +75,6 @@ public class BusBook {
 		}
 		booked.add(p);
 		System.out.println("Ticket Booked "+ p.getPid());
-		
-		
 		}
 
 }
